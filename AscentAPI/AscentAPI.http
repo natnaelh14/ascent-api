@@ -1,0 +1,6 @@
+@AscentAPI_HostAddress = http://localhost:5092
+
+GET {{AscentAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
